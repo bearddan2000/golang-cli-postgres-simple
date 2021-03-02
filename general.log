@@ -1,0 +1,16 @@
+[2021-02-25 10:41:08 INFO]: install::setup-logging ended
+================
+[2021-02-25 10:41:08 INFO]: install::start-up started
+[2021-02-25 10:41:08 INFO]: install::start-up build image
+[2021-02-25 10:41:08 INFO]: install::start-up ended
+================
+[2021-02-25 10:47:05 INFO]: install::root-check started
+[2021-02-25 10:47:05 INFO]: install::root-check ended
+================
+[2021-02-25 10:47:05 INFO]: install::docker-check started
+[2021-02-25 10:47:05 INFO]: install::docker-check ended
+================
+[2021-02-25 10:47:05 INFO]: install::tear-down started
+[2021-02-25 10:47:05 INFO]: install::tear-down services removed
+[2021-02-25 10:47:05 INFO]: install::tear-down ended
+================
